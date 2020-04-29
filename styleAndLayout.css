@@ -1,0 +1,45 @@
+/* global css */
+body {
+  margin: 0;
+}
+
+/*id's*/
+/* header */
+#containerHeader {
+  background-color: #860111;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#header {
+  min-height: 100%;
+  min-width: 100%;
+}
+
+
+
+/* classes */
+/* headers */
+#header .headerMain {
+  font-size: 50px;
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  width: 50%;
+  height: 0%;
+  float: left;
+  color: lightGrey;
+}
+
+#header .headerText {
+  width: 50%;
+  height: 50%;
+  float: right;
+  font-size: 32px;
+  color: lightGrey;
+}
+
+#header .headerInfo {
+  word-wrap: break-word;
+  font-size: 24px;
+}
