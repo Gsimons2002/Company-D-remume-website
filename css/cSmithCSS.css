@@ -20,14 +20,15 @@ body {
 
 /* body */
 #containerBody {
-  background-image: url(../pictures/gregoryResume.jpg);
+  background-image: url(../pictures/smith.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 50%;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
   background-attachment: fixed;
+  background-position: center;
 }
 
 #body1 {

@@ -20,14 +20,15 @@ body {
 
 /* body */
 #containerBody {
-  background-image: url(../pictures/gear.jpg);
+  background-image: url(../pictures/pBacha.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 50%;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
   background-attachment: fixed;
+  background-position: center;
 }
 
 #body1 {
@@ -65,7 +66,7 @@ body {
   font-size: 30px;
   font-family: Serif Times New Roman;
   height: 100%%;
-  color: #ffffff;
+  color: #000000;
   line-height: 200%;
 }
 
