@@ -39,7 +39,7 @@ body {
 /* headers */
 #header .headerMain {
   font-size: 50px;
-  font-family: Serif Times New Roman;
+  font-family: Arial;
   width: 50%;
   height: 0%;
   float: left;
@@ -52,7 +52,7 @@ body {
   float: right;
   font-size: 32px;
   color: lightGrey;
-  font-family: Serif Times New Roman;
+  font-family: Arial;
 }
 
 #header .headerInfo {
@@ -62,11 +62,11 @@ body {
 
 /* bodys */
 #body1 .bodyMain {
-  font-size: 30px;
-  font-family: Serif Times New Roman;
+  font-size: 24px;
+  font-family: Arial;
   height: 100%%;
   color: #ffffff;
-  line-height: 200%;
+  line-height: 150%;
 }
 
 #body1 .bodyPicContainer {
